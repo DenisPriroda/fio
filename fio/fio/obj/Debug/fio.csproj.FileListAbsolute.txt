@@ -1,0 +1,11 @@
+C:\Users\stud\Desktop\fio-master\fio\bin\Debug\fio.exe.config
+C:\Users\stud\Desktop\fio-master\fio\bin\Debug\fio.exe
+C:\Users\stud\Desktop\fio-master\fio\bin\Debug\fio.pdb
+C:\Users\stud\Desktop\fio-master\fio\obj\Debug\fio.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\fio-master\fio\obj\Debug\fio.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud\Desktop\fio-master\fio\obj\Debug\fio.Form1.resources
+C:\Users\stud\Desktop\fio-master\fio\obj\Debug\fio.Properties.Resources.resources
+C:\Users\stud\Desktop\fio-master\fio\obj\Debug\fio.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\fio-master\fio\obj\Debug\fio.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\fio-master\fio\obj\Debug\fio.exe
+C:\Users\stud\Desktop\fio-master\fio\obj\Debug\fio.pdb
